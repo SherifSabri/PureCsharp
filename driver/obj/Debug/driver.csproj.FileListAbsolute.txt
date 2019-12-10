@@ -1,0 +1,9 @@
+C:\Users\sherif.elsaid\source\repos\PureCsharp\driver\bin\Debug\driver.exe.config
+C:\Users\sherif.elsaid\source\repos\PureCsharp\driver\bin\Debug\driver.exe
+C:\Users\sherif.elsaid\source\repos\PureCsharp\driver\bin\Debug\driver.pdb
+C:\Users\sherif.elsaid\source\repos\PureCsharp\driver\bin\Debug\pureCsharp.dll
+C:\Users\sherif.elsaid\source\repos\PureCsharp\driver\bin\Debug\pureCsharp.pdb
+C:\Users\sherif.elsaid\source\repos\PureCsharp\driver\obj\Debug\driver.csprojAssemblyReference.cache
+C:\Users\sherif.elsaid\source\repos\PureCsharp\driver\obj\Debug\driver.csproj.CopyComplete
+C:\Users\sherif.elsaid\source\repos\PureCsharp\driver\obj\Debug\driver.exe
+C:\Users\sherif.elsaid\source\repos\PureCsharp\driver\obj\Debug\driver.pdb
