@@ -1,8 +1,0 @@
-C:\Users\sherif.elsaid\source\repos\PureCsharp\pureCsharp\bin\Debug\netstandard2.0\pureCsharp.deps.json
-C:\Users\sherif.elsaid\source\repos\PureCsharp\pureCsharp\bin\Debug\netstandard2.0\pureCsharp.dll
-C:\Users\sherif.elsaid\source\repos\PureCsharp\pureCsharp\bin\Debug\netstandard2.0\pureCsharp.pdb
-C:\Users\sherif.elsaid\source\repos\PureCsharp\pureCsharp\obj\Debug\netstandard2.0\pureCsharp.csprojAssemblyReference.cache
-C:\Users\sherif.elsaid\source\repos\PureCsharp\pureCsharp\obj\Debug\netstandard2.0\pureCsharp.AssemblyInfoInputs.cache
-C:\Users\sherif.elsaid\source\repos\PureCsharp\pureCsharp\obj\Debug\netstandard2.0\pureCsharp.AssemblyInfo.cs
-C:\Users\sherif.elsaid\source\repos\PureCsharp\pureCsharp\obj\Debug\netstandard2.0\pureCsharp.dll
-C:\Users\sherif.elsaid\source\repos\PureCsharp\pureCsharp\obj\Debug\netstandard2.0\pureCsharp.pdb
